@@ -1,0 +1,8 @@
+C:\Users\sqeby607\Documents\SY22-23\C#\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.exe.config
+C:\Users\sqeby607\Documents\SY22-23\C#\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.exe
+C:\Users\sqeby607\Documents\SY22-23\C#\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.pdb
+C:\Users\sqeby607\Documents\SY22-23\C#\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.csproj.AssemblyReference.cache
+C:\Users\sqeby607\Documents\SY22-23\C#\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.csproj.SuggestedBindingRedirects.cache
+C:\Users\sqeby607\Documents\SY22-23\C#\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.csproj.CoreCompileInputs.cache
+C:\Users\sqeby607\Documents\SY22-23\C#\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.exe
+C:\Users\sqeby607\Documents\SY22-23\C#\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.pdb

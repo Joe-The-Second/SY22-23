@@ -1,0 +1,8 @@
+C:\Users\sqeby607\Documents\SY22-23\C#\WordGame\WordGame\bin\Debug\WordGame.exe.config
+C:\Users\sqeby607\Documents\SY22-23\C#\WordGame\WordGame\bin\Debug\WordGame.exe
+C:\Users\sqeby607\Documents\SY22-23\C#\WordGame\WordGame\bin\Debug\WordGame.pdb
+C:\Users\sqeby607\Documents\SY22-23\C#\WordGame\WordGame\obj\Debug\WordGame.csproj.AssemblyReference.cache
+C:\Users\sqeby607\Documents\SY22-23\C#\WordGame\WordGame\obj\Debug\WordGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\sqeby607\Documents\SY22-23\C#\WordGame\WordGame\obj\Debug\WordGame.csproj.CoreCompileInputs.cache
+C:\Users\sqeby607\Documents\SY22-23\C#\WordGame\WordGame\obj\Debug\WordGame.exe
+C:\Users\sqeby607\Documents\SY22-23\C#\WordGame\WordGame\obj\Debug\WordGame.pdb

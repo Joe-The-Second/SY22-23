@@ -1,0 +1,11 @@
+C:\Users\sqeby607\Documents\SY22-23\C#\Pong\Pong\bin\Debug\Pong.exe.config
+C:\Users\sqeby607\Documents\SY22-23\C#\Pong\Pong\bin\Debug\Pong.exe
+C:\Users\sqeby607\Documents\SY22-23\C#\Pong\Pong\bin\Debug\Pong.pdb
+C:\Users\sqeby607\Documents\SY22-23\C#\Pong\Pong\obj\Debug\Pong.csproj.AssemblyReference.cache
+C:\Users\sqeby607\Documents\SY22-23\C#\Pong\Pong\obj\Debug\Pong.csproj.SuggestedBindingRedirects.cache
+C:\Users\sqeby607\Documents\SY22-23\C#\Pong\Pong\obj\Debug\Pong.Form1.resources
+C:\Users\sqeby607\Documents\SY22-23\C#\Pong\Pong\obj\Debug\Pong.Properties.Resources.resources
+C:\Users\sqeby607\Documents\SY22-23\C#\Pong\Pong\obj\Debug\Pong.csproj.GenerateResource.cache
+C:\Users\sqeby607\Documents\SY22-23\C#\Pong\Pong\obj\Debug\Pong.csproj.CoreCompileInputs.cache
+C:\Users\sqeby607\Documents\SY22-23\C#\Pong\Pong\obj\Debug\Pong.exe
+C:\Users\sqeby607\Documents\SY22-23\C#\Pong\Pong\obj\Debug\Pong.pdb

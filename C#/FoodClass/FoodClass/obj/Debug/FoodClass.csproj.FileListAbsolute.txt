@@ -1,0 +1,8 @@
+C:\Users\sqeby607\Documents\SY22-23\C#\FoodClass\FoodClass\bin\Debug\FoodClass.exe.config
+C:\Users\sqeby607\Documents\SY22-23\C#\FoodClass\FoodClass\bin\Debug\FoodClass.exe
+C:\Users\sqeby607\Documents\SY22-23\C#\FoodClass\FoodClass\bin\Debug\FoodClass.pdb
+C:\Users\sqeby607\Documents\SY22-23\C#\FoodClass\FoodClass\obj\Debug\FoodClass.csproj.AssemblyReference.cache
+C:\Users\sqeby607\Documents\SY22-23\C#\FoodClass\FoodClass\obj\Debug\FoodClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\sqeby607\Documents\SY22-23\C#\FoodClass\FoodClass\obj\Debug\FoodClass.csproj.CoreCompileInputs.cache
+C:\Users\sqeby607\Documents\SY22-23\C#\FoodClass\FoodClass\obj\Debug\FoodClass.exe
+C:\Users\sqeby607\Documents\SY22-23\C#\FoodClass\FoodClass\obj\Debug\FoodClass.pdb
